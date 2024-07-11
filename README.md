@@ -11,6 +11,10 @@ The AWS CLI (Command Line Interface) is an open source tool that enables us to i
 - Remotely: You can run commands on Amazon EC2 (Amazon Elastic Compute Cloud) instances through a remote program such as Putty or SSH or even with an AWS System Manager.
 
 # How to setup the AWS CLIv2 on ubuntu.
+Install AWS CLI using Snap: Start by installing the AWS CLI using Snap. This method is preferred because it isolates the installation from other system software and ensures that you have the latest version.
+```bash
+sudo snap install aws-cli --classic
+``
 
 1. To install AWS CLI on ubuntu you can use the command below:
 ```bash
