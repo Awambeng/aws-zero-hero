@@ -14,7 +14,7 @@ The AWS CLI (Command Line Interface) is an open source tool that enables us to i
 Install AWS CLI using Snap: Start by installing the AWS CLI using Snap. This method is preferred because it isolates the installation from other system software and ensures that you have the latest version.
 ```bash
 sudo snap install aws-cli --classic
-``
+```
 
 1. To install AWS CLI on ubuntu you can use the command below:
 ```bash
